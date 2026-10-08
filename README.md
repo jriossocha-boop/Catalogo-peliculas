@@ -17,7 +17,7 @@ INSTRUCCIONES PARA EJECUTAR EL PROYECTO:
 Para correr este proyecto en tu entorno local, sigue estos pasos:
 
 Clonar el repositorio:
-git clone [ENLACE_DE_TU_REPOSITORIO_AQUI]
+git clone https://github.com/jriossocha-boop/Catalogo-peliculas.git
 
 Navegar a la carpeta del proyecto:
 cd catalogo-peliculas
